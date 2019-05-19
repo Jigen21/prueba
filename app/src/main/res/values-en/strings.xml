@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Testing</string>
+    <string name="nombre">Name:   </string>
+    <string name="cantidad">Quantity:   </string>
+    <string name="precio">Price:   </string>
+</resources>
